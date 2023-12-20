@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
 import React from 'react';
-let A='';
-
-console.log(A);
+let ann="cfg"
 
 function App () {
+
+
   return (
     <div className="App">
       <header className="App-header">
