@@ -4,10 +4,6 @@ import React from 'react';
 
 function App () {
 
-  let a = "as";
-
-
-
   return (
     <div className="App">
       <header className="App-header">
